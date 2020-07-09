@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <math.h>
 
 
 int** getarray(int *size);//get num of objects and create array in this size
